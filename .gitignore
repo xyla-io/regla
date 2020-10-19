@@ -1,0 +1,11 @@
+*.egg-info
+.env
+*.pem
+*.key
+*.pyc
+.idea
+dist
+build
+Certificates
+__pycache__
+.DS_Store

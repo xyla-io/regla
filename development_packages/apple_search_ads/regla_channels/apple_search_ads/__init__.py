@@ -1,0 +1,1 @@
+from .apple_search_ads_channel import AppleSearchAdsChannel as Channel

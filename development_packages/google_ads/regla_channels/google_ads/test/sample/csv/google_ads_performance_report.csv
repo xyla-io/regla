@@ -1,0 +1,2 @@
+,customer#id,customer#descriptive_name,customer#currency_code,campaign#id,campaign#name,campaign#status,campaign#start_date,campaign#app_campaign_setting#app_id,campaign#app_campaign_setting#app_store,metrics#clicks,metrics#conversions,metrics#cost_micros,metrics#impressions,metrics#conversions_value,segments#date,segments#hour
+0,123,COMPANY,USD,456,CAMPAIGNNAME,PAUSED,2020-02-01,com.x.y,GOOGLE_APP_STORE,1.0,,200000.0,300,,2020-02-29,20

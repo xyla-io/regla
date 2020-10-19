@@ -1,0 +1,2 @@
+,customer_id,customer_descriptive_name,customer_currency_code,campaign_id,campaign_name,campaign_status,campaign_start_date,campaign_app_campaign_setting_app_id,campaign_app_campaign_setting_app_store,metrics_clicks,metrics_conversions,metrics_cost_micros,metrics_impressions,metrics_conversions_value,segments_date,segments_hour,localSpend,date,campaignId,impressions,taps,installs,avgCPT,avgCPA
+0,123,COMPANY,USD,456,CAMPAIGNNAME,PAUSED,2020-02-01,com.x.y,GOOGLE_APP_STORE,1.0,,200000.0,300,,2020-02-29,20,300.0,2020-02-29 20:00:00,456,500,5.0,,,
